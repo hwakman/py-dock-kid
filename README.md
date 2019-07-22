@@ -18,3 +18,8 @@ Work dir
 ## Project urls
 - [Aplication (Index)](http://0.0.0.0:8000)
 - [Adminer (DB)](http://0.0.0.0:8080/)
+```
+DB: my_db
+USER: postgres
+PASS: postgres
+```
